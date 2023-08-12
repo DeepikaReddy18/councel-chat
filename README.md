@@ -7,4 +7,4 @@ The app could provide tools for case management, including document sharing, mes
 This application is just the prototype of some of the important features 
 We have already published the website using GitHub you can view it using the link below.
  
-   https://raghur13.github.io/Counslechat.github.io/
+  https://deepikareddy18.github.io/councel-chat/
